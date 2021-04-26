@@ -1,0 +1,58 @@
+/*Marcelo Aceituno R
+Full Stack JAVA 0034*/
+.container{
+    background-color: #fff;
+    margin: 0px auto;
+}
+.encabezado{
+    background-color: #343a41;  
+    padding: 35px;
+    height: 100px;
+    text-align: center;
+    vertical-align: center;
+}
+.cabeza{
+    background-color: #46a3b8;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 200px;      
+    color:white;    
+}
+.aside{
+    background-color: #46a3b8;
+    width: 350px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    margin: 10px 0px 0px 0px;
+    padding: 20px;
+}
+.contenido{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #f4c109;
+    width: 737px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 10px;    
+}
+.articulo{
+    background-color: #f8f9fa;
+    display: inline-block;
+    width: 324px;
+    height: 400px;
+    margin: 10px;
+    color: black;
+    padding: 15px;
+}
+.pie{
+    background-color: #3ca745;
+    height: 50px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
